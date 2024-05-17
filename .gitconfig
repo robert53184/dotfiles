@@ -3,3 +3,7 @@
 [user]
 	email = robert.stitic7@gmail.com
 	name = Robert Stitic
+[diff]
+	tool = vimdiff
+[merge]
+	tool = vimdiff
